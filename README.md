@@ -1,2 +1,2 @@
 # FLASK.
-A web project 
+A web project that allows a user  
