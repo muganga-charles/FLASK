@@ -1,3 +1,3 @@
 # FLASK.
 ### A web project  <br />
-The aim of this application is to keep notes for the user
+<b> The aim </b> of this application is to keep notes for the user
